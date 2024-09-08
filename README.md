@@ -1,6 +1,6 @@
-# Easy Market Place
+# Easy E-Commerce
 
-Welcome to **Easy Market Place** – a React-based e-commerce web application where sellers can manage their products, and buyers can browse, search, and purchase products with ease.
+Welcome to **Easy E-Commerce** – a React-based e-commerce web application where sellers can manage their products, and buyers can browse, search, and purchase products with ease.
 
 ## Table of Contents
 
